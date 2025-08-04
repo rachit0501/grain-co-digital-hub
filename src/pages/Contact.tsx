@@ -11,17 +11,17 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Our Location",
-      details: ["123 Grain Street", "Agricultural District", "Mumbai, Maharashtra 400001"]
+      details: ["D-36 FRIENDS COLONY", "AHMAMAU", "SHAHEED PATH", "LUCKNOW, UTTAR PRADESH, 226002"]
     },
     {
       icon: Phone,
       title: "Phone Numbers",
-      details: ["+91 98765 43210", "+91 11 2345 6789", "Toll Free: 1800 123 4567"]
+      details: ["+91 9452156007", "+91 7991466995"]
     },
     {
       icon: Mail,
       title: "Email Addresses",
-      details: ["info@graincompany.com", "orders@graincompany.com", "support@graincompany.com"]
+      details: ["grainsforyou17@gmail.com"]
     },
     {
       icon: Clock,
@@ -148,18 +148,18 @@ const Contact = () => {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
                 <div>
                   <h4 className="font-semibold mb-2">Sales Team</h4>
-                  <p className="text-white/80">sales@graincompany.com</p>
-                  <p className="text-white/80">+91 98765 43210</p>
+                  <p className="text-white/80">grainsforyou17@gmail.com</p>
+                  <p className="text-white/80">+91 94521 56007</p>
                 </div>
                 <div>
                   <h4 className="font-semibold mb-2">Customer Support</h4>
-                  <p className="text-white/80">support@graincompany.com</p>
-                  <p className="text-white/80">1800 123 4567</p>
+                  <p className="text-white/80">grainsforyou17@gmail.com</p>
+                  <p className="text-white/80">94521 56007</p>
                 </div>
                 <div>
                   <h4 className="font-semibold mb-2">Partnership</h4>
-                  <p className="text-white/80">partners@graincompany.com</p>
-                  <p className="text-white/80">+91 11 2345 6789</p>
+                  <p className="text-white/80">grainsforyou17@gmail.com</p>
+                  <p className="text-white/80">+91 94521 56007</p>
                 </div>
               </div>
             </CardContent>
@@ -174,7 +174,7 @@ const Contact = () => {
                 Visit Our Office
               </CardTitle>
               <CardDescription className="text-center">
-                Located in the heart of Mumbai's agricultural district
+                Located in the heart of Lucknow's agricultural district
               </CardDescription>
             </CardHeader>
             <CardContent>

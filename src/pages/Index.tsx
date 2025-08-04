@@ -14,9 +14,9 @@ const Index = () => {
   ];
 
   const socialLinks = [
-    { icon: Instagram, href: "https://instagram.com/graincompany", label: "Instagram" },
+    { icon: Instagram, href: "https://instagram.com/tgcfood", label: "Instagram" },
     { icon: Youtube, href: "https://youtube.com/@graincompany", label: "YouTube" },
-    { icon: Twitter, href: "https://twitter.com/graincompany", label: "Twitter" },
+    { icon: Twitter, href: "https://twitter.com/tgcfood", label: "Twitter" },
   ];
 
   return (

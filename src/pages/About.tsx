@@ -24,9 +24,7 @@ const About = () => {
             <h2 className="text-3xl font-semibold text-grain-green">Our Story</h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
               The Grain Company was founded with a simple vision: to bring the finest, 
-              most natural grain products from farm to table. With decades of experience 
-              in agriculture and food processing, we've built a legacy of trust and quality 
-              that spans generations.
+              most natural grain products from farm to table.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Our commitment to sustainable farming practices and traditional methods 
