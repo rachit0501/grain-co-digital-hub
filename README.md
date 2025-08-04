@@ -2,7 +2,6 @@
 
 A modern, responsive website for The Grain Company showcasing premium quality grains and agricultural products with a focus on sustainability and direct farm partnerships.
 
-![Grain Company Logo](src/assets/grain-company-logo.png)
 
 ## ✨ Features
 
