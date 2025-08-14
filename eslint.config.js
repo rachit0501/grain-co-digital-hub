@@ -24,6 +24,15 @@ export default tseslint.config(
         { allowConstantExport: true },
       ],
       "@typescript-eslint/no-unused-vars": "off",
+      // Fix the no-unused-expressions rule to provide proper options
+      "@typescript-eslint/no-unused-expressions": [
+        "error",
+        {
+          allowShortCircuit: true,
+          allowTernary: true,
+          allowTaggedTemplates: true
+        }
+      ],
     },
   }
 );
