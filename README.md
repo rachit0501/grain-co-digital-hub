@@ -2,6 +2,7 @@
 
 Welcome to the Grain Company Digital Hub. This repository contains resources and documentation related to our projects and initiatives.
 
+![Grain Company Logo](src/assets/grain-company-logo.png)
 
 ## Getting Started
 
